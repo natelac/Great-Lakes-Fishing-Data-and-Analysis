@@ -3,7 +3,6 @@
 
 ### Now
 - Do a first pass on fitting models
-- Anonymize data
 - Get historical weather
   - `temp`, `dew`, `humidity`, `precip`, `windgust`, `windspeed`, `winddir`, `pressure`, and `cloudcover` for `starttime`, `endtime`, and `time` for every row
   - Could probably come up with metrics for days preceding fishing days to determine if a big storm has gone through and turned the waters over
@@ -11,7 +10,9 @@
   - Clean data to be 
 - Refit models
 - Write story
-
+- Anonymize data
+  - Load in words for filtering so that names aren't revealed
+  - Load in dictionary for mapping locations to anonymized locations
 ### Later
 - Use `pip freeze` to create a list of dependancies for the `.ipynb` files.
 - Compile (here or in a notebook) a list of things that you didn't control for / were iffy on. Also recommend what steps should be taken when constructing a new dataset. 
