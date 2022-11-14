@@ -1,4 +1,5 @@
-# Great Lakes Fishing
+# Great Lakes Fishing Data and Analysis
+
 ## Todo
 
 ### Now
