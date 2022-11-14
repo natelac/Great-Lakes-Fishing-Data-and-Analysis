@@ -17,7 +17,7 @@ The goal of these notebooks is to clean the data into a presentable form, use on
 
 ## Acknowledgements
 
-The fisherman who collected this data is my father, and he was kind enough to let me share the cleaned version with anyone who might want to explore it. He hopes that this data might inspire you to put your models into practice and go out and fish!
+The fisherman who collected this data is my father (not me!), and he was kind enough to let me share the cleaned version with anyone who might want to explore it. He hopes that this data might inspire you to put your models into practice and go out and fish!
 
 ## Todo
 - Use `pip freeze` to create a list of dependancies for the `.ipynb` files
