@@ -4,7 +4,7 @@
 
 This repository contains a real world fishing dataset and the notebooks used to clean and analyse it.
 
-[![Colab](https://www.awesomemitten.com/wp-content/uploads/2017/07/Lake_Superior_NASA.jpg)](https://drive.google.com/drive/folders/1G9bTWalcd1IADgLsdGyDG5u_tdz0LGqU?usp=share_link)
+[![](https://github.com/natelac/Great-Lakes-Fishing-Data-and-Analysis/blob/main/Fish.png)]()
 
 
 ## The dataset
