@@ -2,7 +2,6 @@
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1G9bTWalcd1IADgLsdGyDG5u_tdz0LGqU?usp=share_link)
 
-
 ## The dataset
 
 The fishing dataset used in these notebooks was collected from over 10 years of fishing on the south shore of Lake Superior- the largest fresh water lake on the planet. The dataset has an entry for every fish caught, almost 2,000 over the last 10 years, and includes simple weather metrics around when the fish was caught along with some information on the fish caught. The logs contain some useful information and context for each fish, however they (and other columns) contain sensitive information. For that reason the raw data is not shared and the cleaned data is available instead. You can get a clean version of the data in the `data` directory.
