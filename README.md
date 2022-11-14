@@ -21,6 +21,6 @@ The fisherman who collected this data is my father, and he was kind enough to le
 
 ## Todo
 - Use `pip freeze` to create a list of dependancies for the `.ipynb` files
-- Create a `data_description.txt describing` each of the features and how to interpret them
+- Create a `data_description.txt` describing each of the features and how to interpret them
 - Finish `02-Fetching-Historical-Weather.ipynb`
 - Finish `05-Summary.ipynb`
