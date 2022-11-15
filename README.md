@@ -13,7 +13,7 @@ The fishing dataset used in these notebooks was collected from over 10 years of 
 
 ## The notebooks
 
-The goal of these notebooks is to clean the data into a presentable form, use online weather APIs to collect more information, perform simple data analysis and exploration, and fit some models for predicting good fishing days. Checkout the [`notebooks`](notebooks/) directory. If some of the graphs are too small or you want to checkout the EBM model, use the [google colab](https://drive.google.com/drive/folders/1G9bTWalcd1IADgLsdGyDG5u_tdz0LGqU?usp=share_link) version.
+The goal of these notebooks is to clean the data into a presentable form, perform simple data analysis and exploration, and fit some models for predicting good fishing days. Checkout the [`notebooks`](notebooks/) directory. If some of the graphs are too small or you want to checkout the EBM model, use the [google colab](https://drive.google.com/drive/folders/1G9bTWalcd1IADgLsdGyDG5u_tdz0LGqU?usp=share_link) version.
 
 ## Acknowledgements
 
