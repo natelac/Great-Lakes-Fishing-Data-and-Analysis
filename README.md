@@ -25,4 +25,4 @@ The fisherman who collected this data is my father (not me!), and he was kind en
 - Finish `02-Fetching-Historical-Weather.ipynb`
 - Finish `05-Summary.ipynb`
 - Get the rest of the 2013 data
-- Create a static dashboard for where the fish is
+- Create a static dashboard (located where the fish is right now)
