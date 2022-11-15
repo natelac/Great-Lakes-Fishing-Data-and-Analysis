@@ -20,9 +20,9 @@ The goal of these notebooks is to clean the data into a presentable form, perfor
 The fisherman who collected this data is my father (not me!), and he was kind enough to let me share the cleaned version with anyone who might want to explore it. He hopes that this data might inspire you to put your models into practice and go out and fish!
 
 ## Todo
-- Use `pip freeze` to create a list of dependancies for the `.ipynb` files
-- Create a `data_description.txt` describing each of the features and how to interpret them
+- Get the rest of the 2013 data
 - Finish `02-Fetching-Historical-Weather.ipynb`
 - Finish `05-Summary.ipynb`
-- Get the rest of the 2013 data
+- Create a `data_description.txt` describing each of the features and how to interpret them
 - Create a static dashboard (located where the fish is right now)
+- Use `pip freeze` to create a list of dependancies for the `.ipynb` files
