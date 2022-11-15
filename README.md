@@ -24,3 +24,4 @@ The fisherman who collected this data is my father (not me!), and he was kind en
 - Create a `data_description.txt` describing each of the features and how to interpret them
 - Finish `02-Fetching-Historical-Weather.ipynb`
 - Finish `05-Summary.ipynb`
+- Get the rest of the 2013 data
