@@ -16,7 +16,7 @@ The goal of these notebooks is to clean the data into a presentable form, perfor
 
 Here is a static dashboard showing the top factors that affected the quality of fishing trips on Lake Superior. Read the notebooks for a full analysis and explanation of the results.
 
-[![](https://github.com/natelac/Great-Lakes-Fishing-Data-and-Analysis/blob/main/Overview.png)]()
+[![](https://github.com/natelac/Great-Lakes-Fishing-Data-and-Analysis/blob/main/Overview_light.png)]()
 
 ## Acknowledgements
 
