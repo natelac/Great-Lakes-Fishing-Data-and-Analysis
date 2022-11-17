@@ -14,7 +14,7 @@ The goal of these notebooks is to clean the data into a presentable form, perfor
 
 ## Some findings
 
-Here is a static dashboard showing the top factors that affected the quality of fishing trips on Lake Superior. Read the notebooks for a full analysis and explanation of the results.
+Here is a static dashboard showing the top factors that affected the quality of fishing trips on Lake Superior. Read the notebooks for a full analysis and many more graphs!
 
 [![](https://github.com/natelac/Great-Lakes-Fishing-Data-and-Analysis/blob/main/Overview_light.png)]()
 
@@ -24,5 +24,5 @@ The fisherman who collected this data is my father (not me!), and he was kind en
 
 ## Todo
 - Get the rest of the 2013 data
-- Create a `data_description.txt` describing each of the features and how to interpret them
+- Create a `data_description.txt` describing each of the features
 - Use `pip freeze` to create a list of dependancies for the `.ipynb` files
