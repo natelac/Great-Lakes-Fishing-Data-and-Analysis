@@ -4,7 +4,9 @@ This repository contains a real world fishing dataset and the notebooks used to 
 
 ## The notebooks
 
-The goal of these notebooks is to clean the data into a presentable form, perform simple data analysis and exploration, and fit some models for predicting good fishing days. If some of the graphs are too small or you want to checkout the EBM model, use the google colab version.
+The goal of these notebooks is to clean the data into a presentable form, perform simple data analysis and exploration, and fit some models for predicting good fishing days. If some of the graphs are too small, you want to checkout the EBM model, or you want to run the code- use the google colab version.
+
+---
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1G9bTWalcd1IADgLsdGyDG5u_tdz0LGqU?usp=share_link)
 
