@@ -2,6 +2,8 @@
 
 This repository contains a real world fishing dataset and the notebooks used to clean and analyse it.
 
+[![](https://github.com/natelac/Great-Lakes-Fishing-Data-and-Analysis/blob/main/Fish.png)]()
+
 ## The notebooks
 
 The goal of these notebooks is to clean the data into a presentable form, perform simple data analysis and exploration, and fit some models for predicting good fishing days. If some of the graphs are too small, you want to checkout the EBM model, or you want to run the code- use the google colab version.
